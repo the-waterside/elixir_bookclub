@@ -1,21 +1,8 @@
-# Bookclub
+# Elixir Bookclub
 
-**TODO: Add description**
+**A repo for all Elixir learnings!**
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `elixir_bookclub` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:elixir_bookclub, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/elixir_bookclub](https://hexdocs.pm/elixir_bookclub).
+> These are my favorite people to work with!
+>
+> -Totally the real Doug Yun
 
